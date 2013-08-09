@@ -1,0 +1,189 @@
+/*///////////////////////////Page_01/////////////////////////////////*/
+#wrapper {
+	width: 1400px;
+	height: 900px;
+	background: url(../images/background.jpg);
+	margin: 0 auto;
+}
+
+#wrapper h1 {
+	margin: 0;
+	padding: 10px 40px;
+	color: #00CCFF;
+}
+
+#prev {
+	background-color: #0066FF;
+	border-radius: 5px;
+}
+
+#next {
+	background-color: #0066FF;
+	border-radius: 5px;
+}
+
+#nav {
+	width: 960px;
+	height: 50px;
+	padding-left: 80px;
+	margin: 0 auto;
+	background: transparent;
+}
+
+#nav ul {
+	float: left;
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	border: 2px solid blue;
+	border-radius: 10px;
+}
+
+#nav ul li {
+	margin: 0;
+	float: left;
+	padding-top: 2px;
+	padding-bottom: 5px;
+}
+
+#nav ul li a {
+	text-decoration: none;
+	padding: 6px 30px;
+	color: #00FF00;
+	border-radius: 10px;
+}
+
+#nav ul li a:hover {
+	background-color: blue;
+	color: white;
+}
+
+#xpan {
+	width: 150px;
+	height: 110px;
+	margin-top: -21px;
+	margin-left: 261px;
+	border-radius: 10px;
+	background: transparent;
+	border: 2px solid blue;
+}
+
+#xpan ul {
+	font-size: 13px;
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	border: 0px solid blue;
+	border-radius: 10px;
+}
+
+#xpan ul li {
+	margin: 0;
+	float: left;
+	padding-top: 2px;
+	padding-bottom: 5px;
+}
+
+#xpan ul li a {
+	text-decoration: none;
+	padding: 6px 0px 6px 10px;
+	color: #00FF00;
+	border-radius: 5px;
+}
+
+#xpan ul li a:hover {
+	background-color: blue;
+	color: white;
+}
+
+#content {
+	width: 960px;
+	height: 775px;
+	margin: 0 auto;
+}
+
+#imgbox {
+	width: 400px;
+	height: 200px;
+	margin: 0 auto;
+	margin-top: -70px;
+	border: 1px solid green;
+}
+
+#next {
+	float: right;
+}
+
+#info {
+	width: 300px;
+	height: 50px;
+	margin: 0 auto;
+	text-align: center;
+	color: green;
+	border: 1px solid blue;
+	border-radius: 10px;
+}
+
+#info1 {
+	width: 300px;
+	height: 200px;
+	margin: 0 auto;
+	text-align: center;
+	color: white;
+	border: 1px solid red;
+	border-radius: 10px;
+}
+
+#ship {
+	width: 300px;
+	height: 50px;
+	margin: 0 auto;
+	text-align: center;
+	color: green;
+	border: 1px solid blue;
+	border-radius: 10px;
+}
+
+#ship1 {
+	width: 300px;
+	height: 200px;
+	margin: 0 auto;
+	text-align: center;
+	color: white;
+	border: 1px solid red;
+	border-radius: 10px;
+}
+
+#review {
+	width: 300px;
+	height: 50px;
+	margin: 0 auto;
+	text-align: center;
+	color: green;
+	border: 1px solid blue;
+	border-radius: 10px;
+}
+
+#rev1 {
+	width: 300px;
+	height: 200px;
+	margin: 0 auto;
+	text-align: center;
+	color: white;
+	border: 1px solid red;
+	border-radius: 10px;
+}
+
+#by {
+	width: 200px;
+	height: 100px;
+	margin-top: 30px;
+	margin-left: 700px;
+}
+
+#buy {
+	width: 100px;
+	height: 30px;
+	background-color: #0066FF;
+	border-radius: 5px;
+}
